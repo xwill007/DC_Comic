@@ -1,0 +1,3 @@
+include ':bottomnavigationexample'
+include ':app'
+rootProject.name = "Sesion3_Fragments"

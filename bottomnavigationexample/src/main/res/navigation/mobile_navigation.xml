@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_batman">
+
+
+    <fragment
+        android:id="@+id/navigation_batman"
+        android:name="com.example.bottomnavigationexample.BatmanFragment"
+        android:label="@string/batman_title"
+        tools:layout="@layout/fragment_batman" />
+    <fragment
+        android:id="@+id/navigation_flash"
+        android:name="com.example.bottomnavigationexample.FlashFragment"
+        android:label="flash_title"
+        tools:layout="@layout/fragment_flash" />
+    <fragment
+        android:id="@+id/navigation_superman"
+        android:name="com.example.bottomnavigationexample.SupermanFragment"
+        android:label="superman_title"
+        tools:layout="@layout/fragment_superman" />
+    <fragment
+        android:id="@+id/navigation_wonder_woman"
+        android:name="com.example.bottomnavigationexample.WonderWomanFragment"
+        android:label="@string/wonder_title"
+        tools:layout="@layout/fragment_wonder_woman" />
+</navigation>

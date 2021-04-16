@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DC Comic</string>
+
+    <string name="batman_title">Batman</string>
+    <string name="superman_title">Superman</string>
+    <string name="flash_title">Flash</string>
+    <string name="wonder_title">Wonder Woman</string>
+
+    <string name="alias_superman">"Clark Kent, Kal-El"</string>
+    <string name="power_superman">"Super strength, flight, invulnerability, super speed, heat vision, freeze breath, x-ray vision, superhuman hearing, healing factor"</string>
+    <string name="alias_batman">"Bruce Wayne"</string>
+    <string name="power_batman">"Exceptional martial artist, combat strategy, inexhaustible wealth, brilliant deductive skill, advanced technology"</string>
+    <string name="alias_flash">"Barry Allen, Jay Garrick, Wally West"</string>
+    <string name="power_flash">"super speed, intangibility, superhuman agility"</string>
+    <string name="alias_wonderWomam">"Diana Prince"</string>
+    <string name="power_wonderWoman">"super strength, invulnerability, flight, combat skill, combat strategy, superhuman agility, healing factor, magic weaponry"</string>
+    <string name="next">Siguiente</string>
+
+</resources>
