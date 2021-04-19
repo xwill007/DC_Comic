@@ -11,3 +11,15 @@ s
 Capp/src/main/java/com/example/sesion3_fragments/SupermanFragment.kt,f\1\f17ce051828e209c71bd632b678a4b78b05eafdd
 p
 @app/src/main/java/com/example/sesion3_fragments/FlashFragment.kt,5\c\5c00f46e7fac7a7ecdfaac54c3aabedc41f49671
+T
+$bottomnavigationexample/build.gradle,2\8\283b1bcfb00fd3cd735dfb4a699b66bf379f1e95
+ê
+`bottomnavigationexample/src/main/java/com/example/bottomnavigationexample/WonderWomanFragment.kt,6\1\614cf50edc7383d4990688c6d71a561d90e1e517
+ä
+Zbottomnavigationexample/src/main/java/com/example/bottomnavigationexample/FlashFragment.kt,4\b\4bb9db197980311f85ab2aab057eec17191af6c2
+ã
+[bottomnavigationexample/src/main/java/com/example/bottomnavigationexample/BatmanFragment.kt,2\6\26e88709b90efa2109384139c758c64cfac4afd8
+ç
+]bottomnavigationexample/src/main/java/com/example/bottomnavigationexample/SupermanFragment.kt,f\8\f8738c9f7f157a913c2580c77ab018780d96072c
+â
+Ybottomnavigationexample/src/main/java/com/example/bottomnavigationexample/MainActivity.kt,a\a\aaf89d21113750828884eac37b8bb47e6fcb5f90

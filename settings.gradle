@@ -1,3 +1,7 @@
+include ':tabbedsexample'
+include ':swipetabbedsexample'
+include ':navegationdrawableexample'
+include ':app:navigationdrawable'
 include ':bottomnavigationexample'
 include ':app'
 rootProject.name = "Sesion3_Fragments"

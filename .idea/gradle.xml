@@ -12,7 +12,11 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/app/navigationdrawable" />
             <option value="$PROJECT_DIR$/bottomnavigationexample" />
+            <option value="$PROJECT_DIR$/navegationdrawableexample" />
+            <option value="$PROJECT_DIR$/swipetabbedsexample" />
+            <option value="$PROJECT_DIR$/tabbedsexample" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
